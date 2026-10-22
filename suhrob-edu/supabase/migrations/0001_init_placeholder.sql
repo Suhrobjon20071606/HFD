@@ -1,0 +1,1 @@
+-- 1-bosqich: sxema 2-bosqichda yoziladi (profiles, user_roles, courses ... audit_logs) RLS bilan.
